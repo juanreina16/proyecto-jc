@@ -1,0 +1,21 @@
+@media (max-width: 767px) {
+    .Pc {
+        display: none;
+    }
+    .marco .Mifoto {
+        position: absolute;
+        top: 1%;
+        right: 23%;
+        width: 180px;
+        height: 180px;
+        border-radius: 100%;
+        transform: skewY(-5deg);
+        overflow: hidden;
+    }
+}
+
+@media (min-width: 800px) {
+    .celular {
+        display: none;
+    }
+}

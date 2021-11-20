@@ -1,0 +1,96 @@
+#boton {
+    width: 30px;
+    font-size: auto;
+    margin: auto;
+    cursor: pointer;
+    float: right;
+}
+
+.dark {
+    background: #273b50;
+}
+
+.dark .boton {
+    background: rgb(37, 37, 37);
+    color: aliceblue;
+}
+
+.dark .marco {
+    height: 300px;
+    width: 100%;
+    background-color: rgb(37, 37, 37);
+}
+
+.dark .informacion {
+    background-color: rgb(37, 37, 37);
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.dark .sobreMi {
+    font-family: monospace;
+    font-size: 15px;
+    color: white;
+}
+
+.dark .oll li {
+    color: white;
+    display: inline-block;
+    padding-left: 15px;
+    width: 25%;
+    margin: 5px;
+    text-align: left;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.dark .SobreMi1 {
+    font-family: monospace;
+    font-size: large;
+    color: white;
+}
+
+.dark .ull td {
+    display: inline-block;
+    border: solid white;
+    margin: 5px;
+    list-style: none;
+    width: 50%;
+}
+
+.dark .marco .yo .y1:hover {
+    background: black;
+    color: white;
+    font-weight: bolder;
+    width: 95%;
+}
+
+.dark .marco .yo .y2:hover {
+    background: black;
+    color: white;
+    font-weight: bolder;
+    width: 95%;
+}
+
+.dark .marco .yo .y3:hover {
+    background: black;
+    color: white;
+    font-weight: bolder;
+    width: 95%;
+}
+
+.dark .Aspiraciones {
+    color: aliceblue;
+    text-align: center;
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: 12px;
+}
+
+.dark .Portafolio {
+    color: aliceblue;
+    text-align: center;
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: 22px;
+}

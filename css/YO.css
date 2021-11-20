@@ -1,0 +1,53 @@
+.sobreMi {
+    font-family: monospace;
+    font-size: 17px;
+    text-align: center;
+}
+
+.ull td:hover {
+    background-color: rgb(37, 37, 37);
+    color: white;
+}
+
+.Ac {
+    text-align: center;
+}
+
+.oll li {
+    text-align: center;
+    display: inline-block;
+    width: 25%;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.SobreMi1 {
+    font-family: monospace;
+    font-size: large;
+}
+
+.ull td {
+    display: inline-block;
+    border: solid black;
+    margin: 5px;
+    list-style: none;
+    width: 50%;
+    -ms-word-break: break-all;
+    word-break: break-all;
+    word-break: break-word;
+    box-shadow: inset 1em 1em 1em rgba(0, 0, 0, 0.3);
+}
+
+.Aspiraciones {
+    text-align: center;
+    font-family: monospace;
+    font-size: 19px;
+}
+
+.Portafolio {
+    text-align: center;
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: 22px;
+}
